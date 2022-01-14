@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.moviewwatcher.core"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "movieWatcher",
+    "packageName": "com.moviewwatcher.core",
+    "packageFolder": "com/moviewwatcher/core",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NDk5YTEyOTg0NzQ5MTAyMWFmYzI4NzczMmVmYWQ5NjkyNmFmMTIyMzg0MDhhZTRlYzE2ZTgwYjQ4NjM5ZGIyZDBhMzdlZjljZmQ5NWU3NjkwNGMzZWM5YTliYjJhYWI5OTYxMTQzNDJlNzdiM2RmM2UyYjM3MTE1YzA3NGViOTY=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "darkly",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1615034675087,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
